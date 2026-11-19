@@ -1,4 +1,4 @@
-md# The Governance Gap
+# The Governance Gap
 
 Agent identity and the questions the industry still can't answer — a reading of McKinsey's *Technology Trends Outlook 2026*, documented as a short research paper.
 
